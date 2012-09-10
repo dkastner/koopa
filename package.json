@@ -10,6 +10,7 @@
 	},
 
 	"files": [
+    "./bin/koopa-cli.js",
 		"./src/koopa.js"
 	],
 
