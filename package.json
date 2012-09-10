@@ -10,20 +10,13 @@
 	},
 
 	"files": [
-    "./bin/koopa-cli.js",
 		"./src/koopa.js"
 	],
 
 	"main": "./src/koopa.js",
 
-	"bin": "./bin/koopa-cli.js",
-
 	"devDependencies": {
 		"jarvis-test": ">=2.0.3"
-	},
-
-	"directories": {
-		"lib": "./src"
 	},
 
 	"scripts": {
